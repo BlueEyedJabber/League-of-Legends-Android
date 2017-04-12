@@ -7,7 +7,7 @@ League-of-Legends-Android
 # Using Riot Developer Api
 
 ### Free Champions
-Champions are to play for free
+Champions that are to play for free
 
 <img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/free_champions.png" width="250">
 
