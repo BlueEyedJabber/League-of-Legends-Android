@@ -1,4 +1,8 @@
 # League-of-Legends-Android
 
 [![Android Demo](https://img.youtube.com/vi/Q4__BDOwOWQ/0.jpg)](https://youtu.be/Q4__BDOwOWQ)
+
+<img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/champion_masteries.png" width="48">
+
+
 ![Champion Masteries](https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/champion_masteries.png | width=100).
