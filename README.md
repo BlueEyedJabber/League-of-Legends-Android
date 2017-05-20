@@ -21,20 +21,20 @@ The current standings for Solo/Duo Master and Challenger leagues
 
 <img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/league_standings.png" width="250">
 
-### Ranked and Classic Stats
+### Ranked and Classic Stats (CLASSIC STATS DEPRECATED WITH OLDER API VERSION)
 Displays the classic and ranked stats for the summoner
 
 <img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/stats.png" width="250">
+
+### Most Played  (DEPRECATED WITH OLDER API VERSION)
+Most played champions for the summoner
+
+<img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/most_played.png" width="250">
 
 ### Recent Games
 The last 10 games and a win/loss for the recent games
 
 <img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/recent_games.png" width="250">
-
-### Most Played
-Most played champions for the summoner
-
-<img src="https://github.com/BlueEyedJabber/League-of-Legends-Android/blob/master/images/most_played.png" width="250">
 
 ### Champion Masteries
 Champion mastery list for the summoner
